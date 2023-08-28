@@ -2,9 +2,9 @@
 
 namespace Mranarola\ErrorLens;
 
+use Mranarola\ErrorLens\Commands\ErrorLensCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Mranarola\ErrorLens\Commands\ErrorLensCommand;
 
 class ErrorLensServiceProvider extends PackageServiceProvider
 {

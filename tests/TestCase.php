@@ -3,8 +3,8 @@
 namespace Mranarola\ErrorLens\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Mranarola\ErrorLens\ErrorLensServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
